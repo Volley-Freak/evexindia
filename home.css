@@ -112,25 +112,25 @@ ul.navbar-ul {
   z-index: -10;
 }
 .section-1::before {
-  background: url("/assets/Frame\ 1.svg") center/cover;
+  background: url("assets/e-rikshaw.svg") center/cover;
 }
 .section-2::before {
-  background: url("/assets/Banner2.jpg") center/cover;
+  background: url("assets/e-loader.svg") center/cover;
 }
 .section-3::before {
-  background: url("/assets/Banner3.jpg") center/cover;
+  background: url("assets/e-bike.svg") center/cover;
 }
 .section-5::before {
-  background: url("/assets/section-5-cover.jpeg") center/cover;
+  background: url("assets/section-5-cover.jpeg") center/cover;
 }
 .section-6::before {
-  background: url("/assets/section-6-cover.jpeg") center/cover;
+  background: url("assets/section-6-cover.jpeg") center/cover;
 }
 .section-7::before {
-  background: url("/assets/section-7-cover.jpeg") center/cover;
+  background: url("assets/section-7-cover.jpeg") center/cover;
 }
 .section-8::before {
-  background: url("/assets/section-8-cover.jpeg") center/cover;
+  background: url("assets/section-8-cover.jpeg") center/cover;
 }
 .section-1 h1 {
   position: absolute;

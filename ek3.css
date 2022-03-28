@@ -123,7 +123,7 @@ sup {
 
 /* section 4 */
 .section-4 {
-  background: url(/assets/bg.webp) repeat-x;
+  background: url(assets/bg.webp) repeat-x;
   text-align: center;
 }
 .section-4 .title {
@@ -162,7 +162,7 @@ sup {
   content: "";
   height: 580px;
   width: 100%;
-  background: url("/assets/bg\ \(1\).webp") center/cover no-repeat fixed;
+  background: url("assets/bg\ \(1\).webp") center/cover no-repeat fixed;
   position: absolute;
   z-index: -1;
 }
@@ -274,7 +274,7 @@ sup {
   content: "";
   height: 600px;
   width: 100%;
-  background: url("/assets/zuozi.webp") top/cover no-repeat;
+  background: url("assets/zuozi.webp") top/cover no-repeat;
   position: absolute;
   z-index: -1;
 }
