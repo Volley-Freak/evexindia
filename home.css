@@ -112,7 +112,7 @@ ul.navbar-ul {
   z-index: -10;
 }
 .section-1::before {
-  background: url("/assets/Frame\ 1.svg") center/cover;
+  background: url("assets/Frame\ 1.svg") center/cover;
 }
 .section-2::before {
   background: url("/assets/Frame\ 2.svg") center/cover;
